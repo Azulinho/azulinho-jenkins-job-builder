@@ -1,4 +1,4 @@
-This repo contains ansible code to ...
+This repo contains ansible code to install jenkins job-builder
 
 When cloning from github, simply run:
 
@@ -6,4 +6,4 @@ When cloning from github, simply run:
 
 When using galaxy, simply run:
 
-    ansible-galaxy install Azulinho.azulinho-...
+    ansible-galaxy install Azulinho.azulinho-jenkins-job-builder
